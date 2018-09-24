@@ -1,12 +1,13 @@
 package be.pxl.computerstore.hardware;
 
 import be.pxl.computerstore.hardware.ComputerCase;
-import be.pxl.computerstore.hardware.builder.DimensionBuilder;
+import be.pxl.computerstore.hardware.builder.*;
 import be.pxl.computerstore.util.Dimension;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
+
 
 public class ComputerCaseTest {
 	private static final String VENDOR = "Sharkoon";

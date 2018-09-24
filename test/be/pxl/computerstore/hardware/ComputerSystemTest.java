@@ -1,9 +1,11 @@
 package be.pxl.computerstore.hardware;
 
+import be.pxl.computerstore.hardware.builder.*;
 import be.pxl.computerstore.util.TooManyPeripheralsException;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+import be.pxl.computerstore.hardware.builder.*;
 
 public class ComputerSystemTest {
 

@@ -3,6 +3,7 @@ package be.pxl.computerstore.hardware;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import be.pxl.computerstore.hardware.builder.*;
 
 public class ProcessorTest {
 	private static final String VENDOR = "Intel";
